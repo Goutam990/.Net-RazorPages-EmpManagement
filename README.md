@@ -18,7 +18,7 @@ A simple Employee Management System built with ASP.NET Core Razor Pages and Enti
 - **UI**: Razor Pages with Bootstrap 5
 - **Database**: SQL Server with Entity Framework Core 9.0
 - **Validation**: Data Annotations with jQuery Validation
-- **Language**: C# 12
+- **Language**: C# 
 
 ## 📋 Prerequisites
 
